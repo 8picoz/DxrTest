@@ -220,8 +220,8 @@ MonoBehaviour:
       serializedVersion: 2
       m_Bits: 4294967295
   maximumSamples:
-    m_OverrideState: 0
-    m_Value: 256
+    m_OverrideState: 1
+    m_Value: 500
     min: 1
     max: 4096
   minimumDepth:
@@ -231,7 +231,7 @@ MonoBehaviour:
     max: 10
   maximumDepth:
     m_OverrideState: 0
-    m_Value: 4
+    m_Value: 5
     min: 1
     max: 10
   maximumIntensity:
